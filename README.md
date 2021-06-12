@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Leslie-T-art
+- 👀 I’m interested in coding 
+- 🌱 I’m currently stydying computer science
+- 💞️ I’m looking to collaborate on any project that involves coding 
+- 📫 How to reach me ... +263785670693  facebook@ Leslie Chihwai
