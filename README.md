@@ -1,4 +1,4 @@
-<p><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+!!+!&hearts;++;you+are+now+in+the+digital+playground+of+a+...;Software+Developer;IOT+Engineer;UI/UX+Developer;Active+Learner/Researcher;RPA+/+Emerging+Technology+Specialist.."></a>
+<p><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;AI+Specialist;IOT+Engineer;UI/UX+Developer;Active+Learner/Researcher;RPA+/+Emerging+Technology+Specialist.."></a>
 <br/><br/>
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 🚀 Let's explore the digital cosmos together...
