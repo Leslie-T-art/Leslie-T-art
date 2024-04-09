@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/zimbabwe_private/Leslie-T-art.svg)](https://user-badge.committers.top/zimbabwe_private/Leslie-T-art)
+[![committers.top badge](https://user-badge.committers.top/zimbabwe_private/Leslie-T-art.svg)](https://user-badge.committers.top/zimbabwe_private/Leslie-T-art) ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)  
 <p><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;AI+Specialist;IOT+Engineer;UI/UX+Developer;Active+Learner/Researcher;RPA+/+Emerging+Technology+Specialist.."></a>
 <br/><br/>
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
